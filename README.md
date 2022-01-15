@@ -52,7 +52,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ziyankp/Bixby-ser) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/WhiteDevil?v=1)
   
   
   #### TOTAL REPO VIEWS📍
