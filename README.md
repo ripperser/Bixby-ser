@@ -50,7 +50,7 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ziyankp/Bixby-ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ripperser/Bixby-ser) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@terror-boy/WhiteDevil?v=1)
   
